@@ -1,0 +1,24 @@
+.DS_Store
+*.log
+
+# Environment and secrets
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.keystore
+secrets/
+private/
+wallets/
+
+# Dependencies and build outputs
+node_modules/
+dist/
+build/
+.next/
+out/
+
+# Editor and local tooling
+.vscode/
+.idea/
