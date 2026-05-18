@@ -24,6 +24,7 @@ All learning-plan decisions, repository setup choices, safety boundaries, and ma
 - Create daily check-in drafts in `daily/`.
 - Record course tasks and proofs in `tasks/`.
 - Record technical experiments in `experiments/`.
+- Organize external learning materials, class notes, meeting summaries, and source collections in `notes/`.
 - Capture Handbook feedback in `handbook-feedback/`.
 - Organize Hackathon ideas and demo planning in `hackathon/`.
 - Prepare final public materials in `submissions/`.
@@ -66,6 +67,7 @@ The following actions require explicit human confirmation:
 - Daily notes: `daily/YYYY-MM-DD.md`
 - Tasks: `tasks/task-001-short-title.md`
 - Experiments: `experiments/YYYY-MM-DD-short-title.md`
+- Collected notes: `notes/classes/YYYY-MM-DD-short-title.md`, `notes/meetings/YYYY-MM-DD-short-title.md`, or `notes/daily-collections/YYYY-MM-DD.md`
 - Handbook feedback: `handbook-feedback/YYYY-MM-DD-topic.md`
 - Hackathon ideas: `hackathon/idea-short-title.md`
 

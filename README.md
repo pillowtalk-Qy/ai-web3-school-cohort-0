@@ -32,6 +32,7 @@ The goal is not to skip ahead quickly. The goal is to rebuild the foundation, id
 ├── daily/
 ├── tasks/
 ├── experiments/
+├── notes/
 ├── handbook-feedback/
 ├── hackathon/
 ├── submissions/
@@ -43,6 +44,7 @@ The goal is not to skip ahead quickly. The goal is to rebuild the foundation, id
 - `daily/`: Daily learning notes and public check-in drafts.
 - `tasks/`: Course tasks, proofs, links, and reflections.
 - `experiments/`: Small AI x Web3 experiments and technical notes.
+- `notes/`: Collected external learning materials, class notes, meeting summaries, videos, articles, and topic notes.
 - `handbook-feedback/`: Feedback, questions, and improvement suggestions for the Handbook.
 - `hackathon/`: Hackathon ideas, problem statements, demo plans, and project drafts.
 - `submissions/`: Finalized submission materials and public proof summaries.
