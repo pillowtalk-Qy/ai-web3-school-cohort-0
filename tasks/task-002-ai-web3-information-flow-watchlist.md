@@ -283,6 +283,14 @@ I will continue observing three areas:
 
 ## 提交文本
 
+任务记录：
+
+https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/blob/main/tasks/task-002-ai-web3-information-flow-watchlist.md
+
+Task proof:
+
+https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/blob/main/tasks/task-002-ai-web3-information-flow-watchlist.md
+
 我建立了一个 AI x Web3 行业信息流关注清单，共关注 14 个账号，覆盖课程生态、AI/Agent 工具、Agent Wallet 与安全基础设施、隐私、跨链/intent、Ethereum 专家和中文 builder。
 
 账号包括 AI Web3 School、ETHPanda、LXDAO、Web3 Career Build、Z.AI / GLM、Cobo、GoPlus、Phala Network、Elytro、LI.FI、Web3Privacy、Bruce Xu、Vitalik Buterin 和 Austin Griffith。
