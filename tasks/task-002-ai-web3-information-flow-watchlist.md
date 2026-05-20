@@ -7,7 +7,7 @@
 - Repository: https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0
 - Task file: `tasks/task-002-ai-web3-information-flow-watchlist.md`
 - Related topic note: `notes/topics/ai-web3-information-flow.md`
-- Status: completed, pending commit
+- Status: completed, deployed to GitHub, WCB latest submission status `SUBMITTED` at 2026-05-19T06:58:38.487Z
 
 ## 任务目标
 
