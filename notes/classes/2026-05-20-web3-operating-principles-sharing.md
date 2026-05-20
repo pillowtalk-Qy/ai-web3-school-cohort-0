@@ -1,8 +1,8 @@
-# Web3 Operating Principles Sharing - 2026-05-21
+# Web3 Operating Principles Sharing - 2026-05-20
 
 ## Metadata / 元信息
 
-- Date / 日期: 2026-05-21
+- Date / 日期: 2026-05-20
 - Time / 时间: about 1 hour / 约 1 小时
 - Title / 标题: 从第一性原理深度解析 Web3 运行原理
 - Program / 项目: AI x Web3 School
