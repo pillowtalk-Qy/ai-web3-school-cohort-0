@@ -7,11 +7,11 @@
 - Host / 主持人: TreeTree
 - Duration / 时长: around 73 minutes / 约 73 分钟
 - Source / 来源: learner-provided meeting notes / 学习者提供的会议整理
-- Type / 类型: weekly review meeting / 周例会复盘
+- Type / 类型: course review session / 课程复盘例会
 - Topics / 主题: Week 1 review, excellent notes, learner sharing, leaderboard, Week 2 preview / 第一周复盘、优秀笔记、学员分享、积分排名、下周预告
 - Status / 状态: summarized, not fully source-verified / 已整理，尚未逐条核验直接来源
 - Repository / 仓库: https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0
-- File / 文件: `notes/meetings/2026-05-22-week-1-review-meeting.md`
+- File / 文件: `notes/classes/2026-05-22-week-1-review-meeting.md`
 
 ## Important Caveat / 重要说明
 
