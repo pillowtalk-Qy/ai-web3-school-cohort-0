@@ -1,4 +1,6 @@
-# AI / Web3 学习工作台
+# AI 交互学习产物
+
+这个目录是 Week 1｜AI 向任务｜完成 AI 可交互学习产物 的独立作业目录。
 
 这是一个最小可交互 AI 学习产物原型。它接受用户输入的 AI / Web3 概念、问题或代码片段，并生成一个可操作的学习回路：
 
@@ -24,6 +26,12 @@ python3 -m http.server 4173
 ```
 
 然后访问 `http://localhost:4173`。
+
+GitHub Pages 部署后可以访问：
+
+```text
+https://pillowtalk-qy.github.io/ai-web3-school-cohort-0/ai-interactive-learning-artifact/
+```
 
 ## AI 辅助与人工验证
 
