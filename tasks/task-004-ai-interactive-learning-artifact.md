@@ -7,26 +7,26 @@
 - Track: AI task
 - WCB task: Week 1｜AI 向任务｜完成 AI 可交互学习产物
 - Repository: https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0
-- Artifact: `ai-interactive-learning-artifact/`
+- Artifact: `experiments/ai-interactive-learning-artifact/`
 
 ## Proof Links
 
 After deployment:
 
 ```text
-https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/tree/main/ai-interactive-learning-artifact
+https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/tree/main/experiments/ai-interactive-learning-artifact
 ```
 
 Main demo file:
 
 ```text
-https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/blob/main/ai-interactive-learning-artifact/index.html
+https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/blob/main/experiments/ai-interactive-learning-artifact/index.html
 ```
 
 Live preview:
 
 ```text
-https://pillowtalk-qy.github.io/ai-web3-school-cohort-0/ai-interactive-learning-artifact/
+https://pillowtalk-qy.github.io/ai-web3-school-cohort-0/experiments/ai-interactive-learning-artifact/
 ```
 
 ## 中文说明
@@ -46,7 +46,7 @@ https://pillowtalk-qy.github.io/ai-web3-school-cohort-0/ai-interactive-learning-
 
 ### 2. 用户如何与它交互
 
-用户打开 `ai-interactive-learning-artifact/index.html` 后：
+用户打开 `experiments/ai-interactive-learning-artifact/index.html` 后：
 
 1. 在输入框中填写概念、问题或片段。
 2. 选择学习模式：
@@ -137,13 +137,13 @@ The current version is intentionally safe and static:
 
 ```text
 Demo / GitHub proof:
-https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/tree/main/ai-interactive-learning-artifact
+https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/tree/main/experiments/ai-interactive-learning-artifact
 
 Main demo file:
-https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/blob/main/ai-interactive-learning-artifact/index.html
+https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/blob/main/experiments/ai-interactive-learning-artifact/index.html
 
 Live preview:
-https://pillowtalk-qy.github.io/ai-web3-school-cohort-0/ai-interactive-learning-artifact/
+https://pillowtalk-qy.github.io/ai-web3-school-cohort-0/experiments/ai-interactive-learning-artifact/
 
 Supporting task note:
 https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/blob/main/tasks/task-004-ai-interactive-learning-artifact.md
@@ -170,9 +170,9 @@ AI 辅助生成了学习卡结构、概念解释、类比、机制图节点、�
 
 ## Verification
 
-- `node --check ai-interactive-learning-artifact/app.js`
+- `node --check experiments/ai-interactive-learning-artifact/app.js`
 - Static server smoke test on `http://localhost:4187/`
-- Secret scan against `ai-interactive-learning-artifact`
+- Secret scan against `experiments/ai-interactive-learning-artifact`
 
 ## Privacy Check
 

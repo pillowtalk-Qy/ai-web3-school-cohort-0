@@ -30,7 +30,7 @@ python3 -m http.server 4173
 GitHub Pages 部署后可以访问：
 
 ```text
-https://pillowtalk-qy.github.io/ai-web3-school-cohort-0/ai-interactive-learning-artifact/
+https://pillowtalk-qy.github.io/ai-web3-school-cohort-0/experiments/ai-interactive-learning-artifact/
 ```
 
 ## AI 辅助与人工验证
