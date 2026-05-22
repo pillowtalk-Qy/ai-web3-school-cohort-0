@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI / Web3 学习工作台</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Interactive learning studio</p>
+          <h1>AI / Web3 学习工作台</h1>
+        </div>
+        <div class="status-pill" id="status-pill">
+          <span class="status-dot"></span>
+          Ready
+        </div>
+      </header>
+
+      <section class="workspace" aria-label="学习工作台">
+        <aside class="composer" aria-labelledby="composer-title">
+          <div class="panel-heading">
+            <h2 id="composer-title">输入学习目标</h2>
+            <p>把一个概念变成深入资料、流程拆解和可检查的小练习。</p>
+          </div>
+
+          <form id="learning-form">
+            <label for="topic">概念 / 问题 / 片段</label>
+            <textarea
+              id="topic"
+              name="topic"
+              rows="7"
+              placeholder="例如：RAG 是什么？我是前端背景，想快速理解它怎么工作。"
+            ></textarea>
+
+            <div class="sample-row" aria-label="示例输入">
+              <button type="button" class="sample-chip" data-sample="RAG 是什么？我是前端背景，想快速理解它怎么工作。" data-mode="ai">
+                RAG
+              </button>
+              <button type="button" class="sample-chip" data-sample="Prompt injection 为什么危险？怎么设计一个基本防御？" data-mode="ai">
+                Injection
+              </button>
+              <button type="button" class="sample-chip" data-sample="ERC-20 allowance / approve 机制适合怎么给新人解释？" data-mode="web3">
+                Allowance
+              </button>
+              <button type="button" class="sample-chip" data-sample="把“研究一个 NFT 项目风险”拆成一个 agent workflow。" data-mode="practice">
+                Agent flow
+              </button>
+            </div>
+
+            <fieldset class="segmented-control">
+              <legend>学习模式</legend>
+              <label>
+                <input type="radio" name="mode" value="ai" checked />
+                <span>AI 概念</span>
+              </label>
+              <label>
+                <input type="radio" name="mode" value="web3" />
+                <span>Web3 / 合约</span>
+              </label>
+              <label>
+                <input type="radio" name="mode" value="practice" />
+                <span>实践任务</span>
+              </label>
+            </fieldset>
+
+            <div class="depth-control">
+              <div>
+                <label for="depth">解释深度</label>
+                <span id="depth-label">平衡</span>
+              </div>
+              <input id="depth" name="depth" type="range" min="1" max="3" value="2" />
+            </div>
+
+            <button class="primary-action" type="submit">
+              <span>生成学习路径</span>
+              <span aria-hidden="true">→</span>
+            </button>
+          </form>
+        </aside>
+
+        <section class="result-zone" aria-live="polite">
+          <div id="progress-panel" class="progress-panel" hidden>
+            <div class="progress-header">
+              <span>AI 正在组织学习材料</span>
+              <strong id="progress-label">0%</strong>
+            </div>
+            <div class="progress-track">
+              <div id="progress-fill" class="progress-fill"></div>
+            </div>
+            <p id="progress-copy">识别主题和学习模式</p>
+          </div>
+
+          <div id="output" class="output-grid">
+            <article class="welcome-card">
+              <div class="orbital-mark" aria-hidden="true">
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+              <h2>先选一个学习目标</h2>
+              <p>
+                这个原型会把输入拆成“核心解释 → 扩展知识 → 流程 → 小测 → 反馈”的学习回路。
+              </p>
+              <div class="welcome-grid">
+                <div>
+                  <strong>输入</strong>
+                  <span>概念、问题或代码片段</span>
+                </div>
+                <div>
+                  <strong>资料</strong>
+                  <span>机制、误区、扩展知识</span>
+                </div>
+                <div>
+                  <strong>互动</strong>
+                  <span>点击术语、推进流程、答题</span>
+                </div>
+              </div>
+            </article>
+          </div>
+        </section>
+      </section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
