@@ -11,7 +11,7 @@
 - Points: 30
 - Repository: https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0
 - Task file: `tasks/task-008-ai-web3-minimal-crossover-flowchart.md`
-- Status: completed locally; WCB submission prepared
+- Status: completed, deployed to GitHub, WCB latest submission status `SUBMITTED` at 2026-05-23T09:12:15.229Z
 
 ## 任务目标
 
@@ -242,10 +242,19 @@ https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/blob/main/tasks/task-00
 本 proof 不包含私钥、助记词、API Key、token、.env 文件、真实资产钱包地址或私密截图。
 ```
 
+## WCB Submission Status / WCB 提交状态
+
+- Submission id: `cmpi4qxz1ecqymu01msycg40i`
+- Status: `SUBMITTED`
+- Submitted at: 2026-05-23T09:12:15.229Z
+- Review status: not reviewed in the checked API response
+- Submitted proof:
+  - https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/blob/main/tasks/task-008-ai-web3-minimal-crossover-flowchart.md
+
 ## Privacy Check / 隐私检查
 
 - [x] No private keys, seed phrases, API keys, cookies, tokens, or `.env` content.
 - [x] No real wallet address, real-asset balance, or private transaction pattern.
 - [x] No private screenshots or private chat transcripts.
 - [x] The flowchart is conceptual and does not execute any transaction.
-- [x] Wallet signatures, approvals, transfers, contract writes, commits, pushes, and WCB proof submission still require explicit human confirmation.
+- [x] WCB proof was submitted only after explicit human confirmation.
