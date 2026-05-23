@@ -11,7 +11,7 @@
 - Points: 30
 - Repository: https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0
 - Task file: `tasks/task-007-eoa-smart-account-multisig-permissions.md`
-- Status: completed locally; WCB submission prepared
+- Status: completed, deployed to GitHub, WCB latest submission status `SUBMITTED` at 2026-05-23T08:31:47.142Z
 
 ## 任务目标
 
@@ -185,6 +185,15 @@ https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/blob/main/tasks/task-00
 本笔记不包含私钥、助记词、API Key、token、.env 文件、真实资产钱包地址或私密截图。
 ```
 
+## WCB Submission Status / WCB 提交状态
+
+- Submission id: `cmpi3awg5e7ismu01r8i8nsd6`
+- Status: `SUBMITTED`
+- Submitted at: 2026-05-23T08:31:47.142Z
+- Review status: not reviewed in the checked API response
+- Submitted proof:
+  - https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/blob/main/tasks/task-007-eoa-smart-account-multisig-permissions.md
+
 ## Privacy Check / 隐私检查
 
 - [x] No private keys, seed phrases, API keys, cookies, tokens, or `.env` content.
@@ -192,4 +201,4 @@ https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/blob/main/tasks/task-00
 - [x] No private screenshots or private chat transcripts.
 - [x] No real multisig signer information or team treasury information.
 - [x] This is a conceptual comparison note and does not create or control any wallet.
-- [x] WCB proof submission still requires explicit human confirmation.
+- [x] WCB proof was submitted only after explicit human confirmation.
