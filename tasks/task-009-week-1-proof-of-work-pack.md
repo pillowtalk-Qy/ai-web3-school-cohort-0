@@ -10,7 +10,7 @@
 - WCB task id: pending read-only verification before submission
 - Repository: https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0
 - Task file: `tasks/task-009-week-1-proof-of-work-pack.md`
-- Status: draft prepared locally; pending commit, push, and human-confirmed WCB submission
+- Status: completed, deployed to GitHub; pending WCB task-id verification and human-confirmed WCB submission
 
 ## Task Goal / 任务目标
 
@@ -354,7 +354,7 @@ https://pillowtalk-qy.github.io/ai-web3-school-cohort-0/
 - [x] Hackathon direction linked only at public high-level detail.
 - [x] Human confirmation boundary documented.
 - [x] WCB submission text drafted.
-- [ ] This Pack committed and pushed to GitHub after human confirmation.
+- [x] This Pack committed and pushed to GitHub after human confirmation.
 - [ ] WCB proof submitted after human confirmation.
 - [ ] WCB submission id and status recorded after read-only verification.
 
