@@ -10,7 +10,7 @@
 - WCB task id: `cmp9wlsuo0s4lmw01u8h0og3t`
 - Repository: https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0
 - Task file: `tasks/task-010-restricted-web3-assistant-workflow.md`
-- Status: completed locally; pending commit, push, and WCB submission
+- Status: completed, deployed to GitHub, WCB latest submission status `SUBMITTED` at 2026-05-23T10:06:08.846Z
 
 ## Task Goal / 任务目标
 
@@ -467,8 +467,18 @@ https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/blob/main/tasks/task-01
 - [x] More than 3 risks and limitations are listed.
 - [x] Result verification method is explained.
 - [x] WCB submission draft is prepared.
-- [ ] Commit and push completed after human confirmation.
-- [ ] WCB proof submitted after human confirmation.
+- [x] Commit and push completed after human confirmation.
+- [x] WCB proof submitted after human confirmation.
+
+## WCB Submission Status / WCB 提交状态
+
+- Task id: `cmp9wlsuo0s4lmw01u8h0og3t`
+- Submission id: `cmpi6o91pejdgmu0106uo3ij0`
+- Status: `SUBMITTED`
+- Submitted at: 2026-05-23T10:06:08.846Z
+- Review status: not reviewed in the checked API response
+- Submitted proof:
+  - https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/blob/main/tasks/task-010-restricted-web3-assistant-workflow.md
 
 ## Privacy Check / 隐私检查
 
