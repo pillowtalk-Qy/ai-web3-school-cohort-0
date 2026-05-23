@@ -7,10 +7,10 @@
 - Week: Week 1
 - Track: AI x Web3 integrated task
 - WCB task: Week 1｜AI × Web3 综合任务｜提交 Week 1 Proof-of-Work Pack
-- WCB task id: pending read-only verification before submission
+- WCB task id: `cmp3jyrjn07skn301qopx9rwe`
 - Repository: https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0
 - Task file: `tasks/task-009-week-1-proof-of-work-pack.md`
-- Status: completed, deployed to GitHub; pending WCB task-id verification and human-confirmed WCB submission
+- Status: completed, deployed to GitHub, WCB latest submission status `SUBMITTED` at 2026-05-23T09:54:03.509Z
 
 ## Task Goal / 任务目标
 
@@ -355,8 +355,18 @@ https://pillowtalk-qy.github.io/ai-web3-school-cohort-0/
 - [x] Human confirmation boundary documented.
 - [x] WCB submission text drafted.
 - [x] This Pack committed and pushed to GitHub after human confirmation.
-- [ ] WCB proof submitted after human confirmation.
-- [ ] WCB submission id and status recorded after read-only verification.
+- [x] WCB proof submitted after human confirmation.
+- [x] WCB submission id and status recorded after read-only verification.
+
+## WCB Submission Status / WCB 提交状态
+
+- Task id: `cmp3jyrjn07skn301qopx9rwe`
+- Submission id: `cmpi68pdgehs2mu01tmrcd97v`
+- Status: `SUBMITTED`
+- Submitted at: 2026-05-23T09:54:03.509Z
+- Review status: not reviewed in the checked API response
+- Submitted proof:
+  - https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/blob/main/tasks/task-009-week-1-proof-of-work-pack.md
 
 ## Privacy Check / 隐私检查
 
