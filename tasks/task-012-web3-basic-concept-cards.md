@@ -11,7 +11,7 @@
 - Points: 10
 - Repository: https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0
 - Task file: `tasks/task-012-web3-basic-concept-cards.md`
-- Status: completed locally; not yet deployed to GitHub or submitted to WCB
+- Status: completed, deployed to GitHub, WCB latest submission status `SUBMITTED` at 2026-05-24T15:34:08.149Z
 
 ## Task Goal / 任务目标
 
@@ -560,8 +560,17 @@ https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/blob/main/tasks/task-01
 - [x] Common mistakes or safety reminders included / 已包含常见误区或安全提醒
 - [x] Private key, seed phrase, signature, and approval risks explained / 已说明私钥、助记词、签名和授权风险
 - [x] WCB submission draft prepared / 已准备 WCB 提交草稿
-- [ ] Deployed to GitHub / 尚未部署到 GitHub
-- [ ] Submitted through WCB platform / 尚未通过 WCB 平台提交
+- [x] Deployed to GitHub / 已部署到 GitHub
+- [x] Submitted through WCB platform / 已通过 WCB 平台提交
+
+WCB latest submission status verified through read-only API on 2026-05-24:
+
+- Submission id: `cmpjxtwd0ljdpmu011ytkpypy`
+- Status: `SUBMITTED`
+- Submitted at: 2026-05-24T15:34:08.149Z
+- Review status: not reviewed in the checked API response
+- Submitted proof:
+  - https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/blob/main/tasks/task-012-web3-basic-concept-cards.md
 
 ## Privacy Check / 隐私检查
 
