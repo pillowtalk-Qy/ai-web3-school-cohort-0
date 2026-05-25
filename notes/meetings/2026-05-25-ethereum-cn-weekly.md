@@ -1,8 +1,8 @@
-# Ethereum Chinese Weekly - 2026-05-24
+# Ethereum Chinese Weekly - 2026-05-25
 
 ## Metadata / 元信息
 
-- Date / 日期: 2026-05-24
+- Date / 日期: 2026-05-25
 - Title / 标题: Web3builder.tech x ispanda 以太坊中文周会
 - Source / 来源: learner-provided full meeting record / 学习者提供的完整会议记录
 - Format / 形式: weekly online meeting / 每周一线上周会
