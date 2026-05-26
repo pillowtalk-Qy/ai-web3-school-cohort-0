@@ -11,7 +11,7 @@
 - Points / 分值: 20
 - Repository / 仓库: https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0
 - Task file / 任务文件: `tasks/task-015-minimal-payment-commerce-flow.md`
-- Status / 状态: completed locally; GitHub deployment and WCB submission pending human confirmation / 已在本地完成，GitHub 部署和 WCB 提交等待人工确认
+- Status / 状态: completed, deployed to GitHub, WCB latest submission status `SUBMITTED` at 2026-05-26T14:56:23.529Z / 已完成、已部署到 GitHub，WCB 最新提交状态为 `SUBMITTED`
 
 ## Task Goal / 任务目标
 
@@ -509,8 +509,15 @@ This proof does not include private keys, seed phrases, API keys, tokens, `.env`
 - [x] Proof records included / 已包含记录证明
 - [x] x402 and ERC-8004 compared / 已比较 x402 与 ERC-8004
 - [x] WCB submission draft prepared / 已准备 WCB 提交草稿
-- [ ] Deployed to GitHub / 尚未部署到 GitHub
-- [ ] Submitted through WCB platform / 尚未提交到 WCB
+- [x] Deployed to GitHub / 已部署到 GitHub
+- [x] Submitted through WCB platform / 已通过 WCB 平台提交
+
+WCB latest submission status verified through read-only API on 2026-05-26:
+
+- Submission id: `cmpmrd2ax0i9rpo012sx1arll`
+- Status: `SUBMITTED`
+- Submitted at: 2026-05-26T14:56:23.529Z
+- Review status: not reviewed in the checked API response
 
 ## Privacy Check / 隐私检查
 
@@ -519,7 +526,7 @@ This proof does not include private keys, seed phrases, API keys, tokens, `.env`
 - [x] No real payment payload, real transaction calldata, or private x402 request.
 - [x] No private screenshots or private chat transcripts.
 - [x] The task is a commerce-flow design proof and does not execute wallet actions.
-- [x] Commit, push, and WCB proof submission still require explicit human confirmation.
+- [x] Commit, push, and WCB proof submission were completed only after explicit human confirmation.
 
 中文隐私检查：
 
@@ -528,4 +535,4 @@ This proof does not include private keys, seed phrases, API keys, tokens, `.env`
 - [x] 不包含真实 payment payload、真实交易 calldata 或私密 x402 请求。
 - [x] 不包含私密截图或私密聊天记录。
 - [x] 本任务只是商业流程设计 proof，不执行任何钱包动作。
-- [x] commit、push 和 WCB proof submission 仍然需要明确人工确认。
+- [x] commit、push 和 WCB proof submission 均在明确人工确认后完成。
