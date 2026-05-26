@@ -11,7 +11,7 @@
 - Points / 分值: 20
 - Repository / 仓库: https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0
 - Task file / 任务文件: `tasks/task-014-ai-web3-problem-map-and-main-direction.md`
-- Status / 状态: completed locally; GitHub deployment and WCB submission pending human confirmation / 已在本地完成，GitHub 部署和 WCB 提交等待人工确认
+- Status / 状态: completed, deployed to GitHub, WCB latest submission status `SUBMITTED` at 2026-05-26T13:12:52.200Z / 已完成、已部署到 GitHub，WCB 最新提交状态为 `SUBMITTED`
 
 ## Task Goal / 任务目标
 
@@ -843,8 +843,15 @@ This proof does not include private keys, seed phrases, API keys, tokens, `.env`
 - [x] Explained why selected directions are not pure AI or pure Web3 problems / 已说明为什么不是纯 AI 或纯 Web3 问题
 - [x] 1 Week 2 main direction selected / 已选择 1 个 Week 2 主线方向
 - [x] WCB submission draft prepared / 已准备 WCB 提交草稿
-- [ ] Deployed to GitHub / 尚未部署到 GitHub
-- [ ] Submitted through WCB platform / 尚未提交到 WCB
+- [x] Deployed to GitHub / 已部署到 GitHub
+- [x] Submitted through WCB platform / 已通过 WCB 平台提交
+
+WCB latest submission status verified through read-only API on 2026-05-26:
+
+- Submission id: `cmpmnnxm09ubamq017owc3xkw`
+- Status: `SUBMITTED`
+- Submitted at: 2026-05-26T13:12:52.200Z
+- Review status: not reviewed in the checked API response
 
 ## Privacy Check / 隐私检查
 
@@ -852,7 +859,7 @@ This proof does not include private keys, seed phrases, API keys, tokens, `.env`
 - [x] No real wallet address, real-asset balance, or private transaction pattern.
 - [x] No private screenshots or private chat transcripts.
 - [x] The task is a direction-selection proof and does not execute wallet actions.
-- [x] Commit, push, and WCB proof submission still require explicit human confirmation.
+- [x] Commit, push, and WCB proof submission were completed only after explicit human confirmation.
 
 中文隐私检查：
 
@@ -860,4 +867,4 @@ This proof does not include private keys, seed phrases, API keys, tokens, `.env`
 - [x] 不包含真实资产钱包地址、真实资产余额或私密交易模式。
 - [x] 不包含私密截图或私密聊天记录。
 - [x] 本任务只是方向选择 proof，不执行任何钱包动作。
-- [x] commit、push 和 WCB proof submission 仍然需要明确人工确认。
+- [x] commit、push 和 WCB proof submission 均在明确人工确认后完成。
