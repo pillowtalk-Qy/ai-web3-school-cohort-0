@@ -11,7 +11,7 @@
 - 分值：20
 - 仓库：https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0
 - 任务文件：`tasks/task-017-agent-profile-capability-claim.md`
-- 状态：已完成，已部署到 GitHub，尚未提交到 WCB
+- 状态：已完成，已部署到 GitHub，WCB 最新提交状态为 `SUBMITTED`，提交时间为 2026-05-28T17:33:25.558Z
 
 **English Companion**
 
@@ -24,7 +24,7 @@
 - Points: 20
 - Repository: https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0
 - Task file: `tasks/task-017-agent-profile-capability-claim.md`
-- Status: completed, deployed to GitHub, not yet submitted to WCB
+- Status: completed, deployed to GitHub, WCB latest submission status `SUBMITTED` at 2026-05-28T17:33:25.558Z
 
 ## 任务目标 / Task Goal
 
@@ -529,7 +529,14 @@ This proof does not include private keys, seed phrases, API keys, tokens, `.env`
 - [x] 已完成中文优先的双语 proof 格式。
 - [x] 已准备 WCB 提交草稿。
 - [x] 已部署到 GitHub。
-- [ ] 尚未通过 WCB 平台提交。
+- [x] 已通过 WCB 平台提交。
+
+2026-05-28 通过只读 API 核验的 WCB 最新提交状态：
+
+- Submission id: `cmppruppydbhkpo01k2y3eqhz`
+- Status: `SUBMITTED`
+- Submitted at: 2026-05-28T17:33:25.558Z
+- Review status: not reviewed in the checked API response
 
 **English Companion**
 
@@ -546,7 +553,14 @@ This proof does not include private keys, seed phrases, API keys, tokens, `.env`
 - [x] Chinese-first bilingual proof format completed.
 - [x] WCB submission draft prepared.
 - [x] Deployed to GitHub.
-- [ ] Submitted through WCB platform.
+- [x] Submitted through WCB platform.
+
+WCB latest submission status verified through read-only API on 2026-05-28:
+
+- Submission id: `cmppruppydbhkpo01k2y3eqhz`
+- Status: `SUBMITTED`
+- Submitted at: 2026-05-28T17:33:25.558Z
+- Review status: not reviewed in the checked API response
 
 ## 隐私检查 / Privacy Check
 
