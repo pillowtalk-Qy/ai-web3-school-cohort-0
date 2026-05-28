@@ -4,7 +4,7 @@
 
 ## Metadata
 
-- Date: 2026-05-29
+- Date: 2026-05-28
 - Program: AI x Web3 School
 - Week: Week 2
 - Track: advanced practice, payment, wallet permission, safe execution
@@ -17,7 +17,7 @@
 
 ## 元信息
 
-- 日期：2026-05-29
+- 日期：2026-05-28
 - 项目：AI x Web3 School
 - 周次：Week 2
 - 方向：进阶实践、支付、钱包权限、安全执行
@@ -62,7 +62,7 @@ The loop should demonstrate:
 
 ## WCB Requirement Check
 
-WCB read-only API check on 2026-05-29 confirmed the task requirements:
+WCB read-only API check on 2026-05-28 confirmed the task requirements:
 
 ```text
 Task id: cmpkl6548nbg8mu01ufwogcau
@@ -86,7 +86,7 @@ The WCB requirement can be summarized as:
 
 ## WCB 要求核对
 
-2026-05-29 通过 WCB Agent API 只读查询确认任务要求：
+2026-05-28 通过 WCB Agent API 只读查询确认任务要求：
 
 ```text
 Task id: cmpkl6548nbg8mu01ufwogcau
@@ -142,7 +142,7 @@ mock endpoint + mock Pact + 伪代码 + 交互流程 + 审计日志 + 风险边�
 
 ## Source Check
 
-Public sources checked on 2026-05-29:
+Public sources checked on 2026-05-28:
 
 - x402 docs index: https://docs.x402.org/llms.txt
 - x402 HTTP 402 docs: https://docs.x402.org/core-concepts/http-402.md
@@ -167,7 +167,7 @@ Key facts used in this proof:
 
 ## 官方资料核对
 
-2026-05-29 核对的公开资料：
+2026-05-28 核对的公开资料：
 
 - x402 docs index: https://docs.x402.org/llms.txt
 - x402 HTTP 402 docs: https://docs.x402.org/core-concepts/http-402.md
@@ -605,7 +605,7 @@ Server-side points:
 
 ```typescript
 async function buyResearchBrief(topic: string) {
-  const requestId = `research-brief:${topic}:2026-05-29`;
+  const requestId = `research-brief:${topic}:2026-05-28`;
   const url = `https://mock.example/api/research-brief?topic=${encodeURIComponent(topic)}`;
 
   const first = await fetch(url);
@@ -703,7 +703,7 @@ Conceptual request:
 {
   "wallet_uuid": "mock-wallet-id",
   "protocol": "x402",
-  "request_id": "research-brief:agent-wallet-safety:2026-05-29",
+  "request_id": "research-brief:agent-wallet-safety:2026-05-28",
   "x402_payment_required": "base64-encoded-payment-required-from-server"
 }
 ```
@@ -716,7 +716,7 @@ Conceptual success response:
   "result": {
     "id": "mock-payment-record-id",
     "idempotent": false,
-    "request_id": "research-brief:agent-wallet-safety:2026-05-29",
+    "request_id": "research-brief:agent-wallet-safety:2026-05-28",
     "protocol": "x402",
     "status": "completed",
     "retry_headers": {
@@ -752,7 +752,7 @@ Conceptual denial response:
 {
   "wallet_uuid": "mock-wallet-id",
   "protocol": "x402",
-  "request_id": "research-brief:agent-wallet-safety:2026-05-29",
+  "request_id": "research-brief:agent-wallet-safety:2026-05-28",
   "x402_payment_required": "base64-encoded-payment-required-from-server"
 }
 ```
@@ -765,7 +765,7 @@ Conceptual denial response:
   "result": {
     "id": "mock-payment-record-id",
     "idempotent": false,
-    "request_id": "research-brief:agent-wallet-safety:2026-05-29",
+    "request_id": "research-brief:agent-wallet-safety:2026-05-28",
     "protocol": "x402",
     "status": "completed",
     "retry_headers": {
@@ -831,7 +831,7 @@ Conceptual denial response:
 {
   "auditId": "audit-016-001",
   "task": "x402 Paywall + CAW Agent autonomous payment loop",
-  "requestId": "research-brief:agent-wallet-safety:2026-05-29",
+  "requestId": "research-brief:agent-wallet-safety:2026-05-28",
   "pactId": "mock-pact-id",
   "agentId": "mock-research-agent",
   "resource": "/api/research-brief",
@@ -874,7 +874,7 @@ This audit log keeps hashes, mock ids, policy decisions, and delivery status. It
 {
   "auditId": "audit-016-001",
   "task": "x402 Paywall + CAW Agent autonomous payment loop",
-  "requestId": "research-brief:agent-wallet-safety:2026-05-29",
+  "requestId": "research-brief:agent-wallet-safety:2026-05-28",
   "pactId": "mock-pact-id",
   "agentId": "mock-research-agent",
   "resource": "/api/research-brief",
@@ -1080,7 +1080,7 @@ https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/blob/main/tasks/task-01
 - [x] Deployed to GitHub.
 - [x] Submitted through WCB platform.
 
-WCB latest submission status verified through read-only API on 2026-05-29:
+WCB latest submission status verified through read-only API on 2026-05-28:
 
 - Submission id: `cmppqo63pd6hwpo015uqjurlg`
 - Status: `SUBMITTED`
@@ -1104,7 +1104,7 @@ WCB latest submission status verified through read-only API on 2026-05-29:
 - [x] 已部署到 GitHub。
 - [x] 已通过 WCB 平台提交。
 
-2026-05-29 通过只读 API 核验的 WCB 最新提交状态：
+2026-05-28 通过只读 API 核验的 WCB 最新提交状态：
 
 - Submission id: `cmppqo63pd6hwpo015uqjurlg`
 - Status: `SUBMITTED`
