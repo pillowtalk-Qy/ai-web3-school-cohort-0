@@ -13,7 +13,7 @@
 - Points: 40
 - Repository: https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0
 - Task file: `tasks/task-016-x402-paywall-caw-agent-payment-loop.md`
-- Status: completed locally, not yet deployed to GitHub, not yet submitted to WCB
+- Status: completed, deployed to GitHub, WCB latest submission status `SUBMITTED` at 2026-05-28T17:00:20.582Z
 
 ## 元信息
 
@@ -26,7 +26,7 @@
 - 分值：40
 - 仓库：https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0
 - 任务文件：`tasks/task-016-x402-paywall-caw-agent-payment-loop.md`
-- 状态：已在本地完成，尚未部署到 GitHub，尚未提交到 WCB
+- 状态：已完成、已部署到 GitHub，WCB 最新提交状态为 `SUBMITTED`，提交时间为 2026-05-28T17:00:20.582Z
 
 ## Task Goal
 
@@ -1077,8 +1077,15 @@ https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/blob/main/tasks/task-01
 - [x] Failure paths and risk boundaries included.
 - [x] Bilingual proof format completed.
 - [x] WCB submission draft prepared.
-- [ ] Deployed to GitHub.
-- [ ] Submitted through WCB platform.
+- [x] Deployed to GitHub.
+- [x] Submitted through WCB platform.
+
+WCB latest submission status verified through read-only API on 2026-05-29:
+
+- Submission id: `cmppqo63pd6hwpo015uqjurlg`
+- Status: `SUBMITTED`
+- Submitted at: 2026-05-28T17:00:20.582Z
+- Review status: not reviewed in the checked API response
 
 ## 验证状态
 
@@ -1094,8 +1101,15 @@ https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/blob/main/tasks/task-01
 - [x] 已包含失败分支和风险边界。
 - [x] 已完成双语 proof 格式。
 - [x] 已准备 WCB 提交草稿。
-- [ ] 尚未部署到 GitHub。
-- [ ] 尚未通过 WCB 平台提交。
+- [x] 已部署到 GitHub。
+- [x] 已通过 WCB 平台提交。
+
+2026-05-29 通过只读 API 核验的 WCB 最新提交状态：
+
+- Submission id: `cmppqo63pd6hwpo015uqjurlg`
+- Status: `SUBMITTED`
+- Submitted at: 2026-05-28T17:00:20.582Z
+- Review status: 在已检查 API 响应中尚未看到 review 结果
 
 ## Privacy Check
 
@@ -1104,7 +1118,7 @@ https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/blob/main/tasks/task-01
 - [x] No real payment payload, real transaction calldata, or private x402 request.
 - [x] No private screenshots or private chat transcripts.
 - [x] This task is a design proof and does not execute real wallet actions.
-- [x] Commit, push, and WCB proof submission still require explicit human confirmation.
+- [x] Commit, push, and WCB proof submission were completed only after explicit human confirmation.
 
 ## 隐私检查
 
@@ -1113,4 +1127,4 @@ https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0/blob/main/tasks/task-01
 - [x] 不包含真实 payment payload、真实交易 calldata 或私密 x402 请求。
 - [x] 不包含私密截图或私密聊天记录。
 - [x] 本任务是设计型 proof，不执行真实钱包动作。
-- [x] commit、push 和 WCB proof submission 仍需要明确人工确认。
+- [x] commit、push 和 WCB proof submission 均在明确人工确认后完成。
