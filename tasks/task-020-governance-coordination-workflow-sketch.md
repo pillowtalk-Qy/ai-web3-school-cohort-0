@@ -11,7 +11,7 @@
 - 分值：20
 - 仓库：https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0
 - 任务文件：`tasks/task-020-governance-coordination-workflow-sketch.md`
-- 状态：已完成，已部署到 GitHub，WCB 最新状态为 `NOT_STARTED`
+- 状态：已完成，已部署到 GitHub，WCB 最新提交状态为 `SUBMITTED`，提交时间为 2026-05-29T08:13:19.024Z
 
 **English Companion**
 
@@ -24,7 +24,7 @@
 - Points: 20
 - Repository: https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0
 - Task file: `tasks/task-020-governance-coordination-workflow-sketch.md`
-- Status: completed, deployed to GitHub, WCB latest status `NOT_STARTED`
+- Status: completed, deployed to GitHub, WCB latest submission status `SUBMITTED` at 2026-05-29T08:13:19.024Z
 
 ## 任务目标 / Task Goal
 
@@ -475,7 +475,14 @@ This proof does not include private keys, seed phrases, API keys, tokens, `.env`
 - [x] 已分析治理协作风险。
 - [x] 已准备 WCB 提交草稿。
 - [x] 已部署到 GitHub。
-- [ ] 尚未提交 WCB proof。
+- [x] 已通过 WCB 平台提交。
+
+2026-05-29 通过只读 API 核验的 WCB 最新提交状态：
+
+- Submission id: `cmpqna9f4fo0jpo01a4ttwj5g`
+- Status: `SUBMITTED`
+- Submitted at: 2026-05-29T08:13:19.024Z
+- Review status: not reviewed in the checked API response
 
 **English Companion**
 
@@ -490,7 +497,14 @@ This proof does not include private keys, seed phrases, API keys, tokens, `.env`
 - [x] Governance coordination risks analyzed.
 - [x] WCB submission draft prepared.
 - [x] Deployed to GitHub.
-- [ ] WCB proof not yet submitted.
+- [x] Submitted through WCB platform.
+
+WCB latest submission status verified through read-only API on 2026-05-29:
+
+- Submission id: `cmpqna9f4fo0jpo01a4ttwj5g`
+- Status: `SUBMITTED`
+- Submitted at: 2026-05-29T08:13:19.024Z
+- Review status: not reviewed in the checked API response
 
 ## 隐私检查 / Privacy Check
 
