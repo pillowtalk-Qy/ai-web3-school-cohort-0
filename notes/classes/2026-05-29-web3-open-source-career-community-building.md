@@ -1,17 +1,19 @@
-# AI x Web3 School Co-learning - Web3 Open Source, Career Development, and Community Building - 2026-05-29
+# Women Builders in AI x Web3 - Learning Paths, Collaboration Networks, and Global Opportunities - 2026-05-29
 
 ## Metadata / 元信息
 
 - Date / 日期: 2026-05-29
-- Title / 标题: Web3 开源贡献、个人品牌、AI + Web3 发展、社区参与与职业成长共学讨论
-- Source / 来源: learner-provided meeting minutes / 学习者提供的会议纪要
-- Type / 类型: co-learning session / 共学分享与答疑
+- WCB task / WCB 任务: `Week 2｜线上活动｜实时参加 5.29｜Women Builders in AI × Web3: Learning Paths, Collaboration Networks & Global Opportunities`
+- Title / 标题: Women Builders in AI x Web3: Learning Paths, Collaboration Networks and Global Opportunities
+- Chinese title / 中文标题: AI x Web3 女性建设者：学习路径、协作网络与全球机会
+- Source / 来源: learner-provided meeting minutes and task detail / 学习者提供的会议纪要与任务详情
+- Type / 类型: live online event note / 线上活动实时参与笔记
 - Duration / 时长: about 35 minutes / 约 35 分钟
 - Main speaker / 主讲: Speaker A
 - Moderator / 主持: Speaker C
 - Participants / 参与者: Speaker B, Speaker D, Speaker E, other students / 其他同学
 - Language / 语言: mainly English, mixed with a few Chinese sentences / 主要英文，夹杂少量中文
-- Topics / 主题: open source contribution, personal branding, AI + Web3, community participation, career development, local chapters / 开源贡献、个人品牌、AI + Web3、社区参与、职业发展、本地社区
+- Topics / 主题: women builders, open source contribution, personal branding, AI + Web3, community participation, career development, local chapters, global opportunities / 女性建设者、开源贡献、个人品牌、AI + Web3、社区参与、职业发展、本地社区、全球机会
 - Status / 状态: summarized from learner-provided notes, not independently source-verified / 基于学习者提供记录整理，尚未逐条核验直接来源
 - Public / 公开状态: yes, after privacy review / 隐私检查后可公开
 - Repository / 仓库: https://github.com/pillowtalk-Qy/ai-web3-school-cohort-0
@@ -19,13 +21,13 @@
 
 ## Important Caveat / 重要说明
 
-这是一份基于学习者提供会议纪要整理的共学笔记，不是逐字稿，也不是对任何个人、项目、社区、职业路径或招聘结果的正式背书。笔记中人物均匿名化为 speaker，不记录私人身份、私人联系方式、私人聊天内容或无关细节。
+这是一份基于学习者提供会议纪要和任务详情整理的线上活动笔记，不是逐字稿，也不是对任何个人、项目、社区、职业路径或招聘结果的正式背书。笔记中人物均匿名化为 speaker，不记录私人身份、私人联系方式、私人聊天内容或无关细节。
 
-This note summarizes learner-provided meeting minutes. It is not a verbatim transcript, career advice, recruitment advice, project endorsement, community endorsement, or guarantee of outcomes. Speaker identities are anonymized.
+This note summarizes learner-provided meeting minutes and task detail for the live online event `Women Builders in AI x Web3: Learning Paths, Collaboration Networks & Global Opportunities`. It is not a verbatim transcript, career advice, recruitment advice, project endorsement, community endorsement, or guarantee of outcomes. Speaker identities are anonymized.
 
-## Session Overview / 讨论概览
+## Event Overview / 活动概览
 
-本次分享围绕 Web3 职业成长和社区参与展开，核心问题是：
+本次线上活动围绕 women builders 在 AI x Web3 生态中的学习路径、协作网络、全球机会和职业成长展开。核心问题是：
 
 ```text
 普通 builder 如何通过开源贡献、公开表达、社区角色和持续互助，进入并长期留在 Web3 生态？
@@ -33,16 +35,16 @@ This note summarizes learner-provided meeting minutes. It is not a verbatim tran
 
 讨论覆盖：
 
-- 为什么 GitHub 和开源贡献对 Web3 求职很重要。
+- 为什么 GitHub 和开源贡献对 Web3 求职和全球机会很重要。
 - 如何通过 public speaking、volunteering、community mentor 等方式提升可见度。
 - Web3 里个人品牌和信任如何积累。
 - 如果今天重新选择方向，为什么可以优先考虑 AI + Web3。
 - 设计背景、非传统技术背景的人如何进入 full-stack builder 路径。
-- 社区如何从线上课程、academy、accelerator 延伸到本地 chapter 和大学项目。
+- 社区如何从线上课程、academy、accelerator 延伸到本地 chapter、大学项目和女性建设者网络。
 
 English companion:
 
-The session focused on how builders can enter and grow in Web3 through open source contribution, public communication, community roles, volunteering, personal branding, and AI + Web3 development.
+The live event focused on how women builders and early builders can enter and grow in AI x Web3 through open source contribution, public communication, community roles, volunteering, personal branding, collaboration networks, and global opportunities.
 
 ## 1. Speaker A: Open Source Contribution and Web3 Career Growth
 
